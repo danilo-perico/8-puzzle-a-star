@@ -1,1 +1,1 @@
-# a-star solver for 8 puzzle game in Python
+# A* search for 8 puzzle game in Python
