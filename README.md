@@ -1,2 +1,1 @@
-# Python
-All I do in Python.
+# a-star solver for 8 puzzle game in Python
